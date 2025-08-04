@@ -167,6 +167,8 @@ build/
 # uploads/
 # data/
 
+PetHubAIFrontend/.env
+
 # PetHubAI Backend specific files to exclude
 PetHubAIBackend/pom.xml
 PetHubAIBackend/src/main/resources/application.properties
